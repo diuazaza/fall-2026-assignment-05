@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shop Provisions | Umami Noodle Works</title>
+  <link rel="stylesheet" href="./src/styles/main.css" />
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav-container">
+      <a href="./index.html" class="logo">Umami<span>.</span>Works</a>
+      <ul class="nav-links">
+        <li><a href="./index.html">Home</a></li>
+        <li><a href="./store.html" class="active">Store</a></li>
+        <li><a href="./about.html">About</a></li>
+      </ul>
+    </nav>
+  </header>
 
+  <main>
+    <div class="store-header">
+      <h1>The Noodle Shop Catalog</h1>
+      <p>Browse fresh noodle packs, slow-simmered broths, seasonings, and cookware.</p>
+    </div>
+
+    <!-- Product Grid dynamically rendered by src/main.js -->
+    <section id="product-grid" class="product-grid" aria-live="polite">
+      <!-- Injected via JavaScript -->
+    </section>
+
+    <!-- Dynamic Pagination Controls -->
+    <div class="pagination-controls">
+      <button id="prev-btn" class="btn" aria-label="Previous Page">Previous</button>
+      <span id="page-indicator" class="page-indicator">Page 1 of 3</span>
+      <button id="next-btn" class="btn" aria-label="Next Page">Next</button>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-content">
+      <div>&copy; 2026 Umami Noodle Works. All rights reserved.</div>
+      <div>Kitchen Hours: Mon–Sat 11:00 AM – 9:00 PM | Sun 12:00 PM – 8:00 PM</div>
+    </div>
+  </footer>
+
+  <!-- Loaded as an ES module using a relative path -->
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>

@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Artisan Hakata Ramen Noodles",
+    "price": 8.50,
+    "category": "Noodles",
+    "description": "Ultra-thin, straight wheat noodles calibrated for rapid boiling and optimal broth cling.",
+    "imageUrl": "./images/product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Slow-Simmered Tonkotsu Concentrate",
+    "price": 14.00,
+    "category": "Broths",
+    "description": "Rich 18-hour pork bone reduction infused with aromatics, garlic, and sweet mirin.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hand-Cut Knife Sliced Noodles",
+    "price": 7.95,
+    "category": "Noodles",
+    "description": "Thick, ruffled-edge Shanxi-style wheat ribbons offering unmatched chew and sauce retention.",
+    "imageUrl": "./images/product3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Crisp Sichuan Chili Crisp",
+    "price": 11.50,
+    "category": "Condiments",
+    "description": "Toasted garlic, shallots, and crushed facing-heaven chilis steeped in smoky rapeseed oil.",
+    "imageUrl": "./images/product4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Glazed Stoneware Ramen Bowl",
+    "price": 28.00,
+    "category": "Cookware",
+    "description": "Heavy ceramic serving bowl designed with ergonomic chopstick notches to retain soup heat.",
+    "imageUrl": "./images/product5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tokyo Shoyu Dashi Base",
+    "price": 12.50,
+    "category": "Broths",
+    "description": "Clear broth crafted from aged soy sauce, bonito flakes, kombu kelp, and dried shiitake.",
+    "imageUrl": "./images/product6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Matcha Infused Soba Noodles",
+    "price": 9.25,
+    "category": "Noodles",
+    "description": "Earthy buckwheat flour enriched with stone-ground Uji green tea for hot soups or chilled tsuyu.",
+    "imageUrl": "./images/product7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Red Miso Fire Paste",
+    "price": 10.00,
+    "category": "Condiments",
+    "description": "Fermented soybean paste blended with habanero mash, roasted sesame, and ginger oil.",
+    "imageUrl": "./images/product8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Traditional Bamboo Noodle Strainer",
+    "price": 18.50,
+    "category": "Cookware",
+    "description": "Hand-woven natural bamboo basket engineered for quick draining without bruising delicate strands.",
+    "imageUrl": "./images/product9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Golden Turmeric Udon Strands",
+    "price": 8.00,
+    "category": "Noodles",
+    "description": "Pillowy, bouncy sanuki-style wheat udon ribbons colored with organic sun-dried turmeric.",
+    "imageUrl": "./images/product10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Vegan Smoked Shiitake Broth",
+    "price": 13.00,
+    "category": "Broths",
+    "description": "Deeply savory plant-based reduction made from forest mushrooms, charred scallions, and toasted kombu.",
+    "imageUrl": "./images/product11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Charred Black Garlic Oil (Mayu)",
+    "price": 9.50,
+    "category": "Condiments",
+    "description": "Aromatic finishing drizzle created by slowly scorching seven stages of minced garlic in sesame fat.",
+    "imageUrl": "./images/product12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Stainless Steel Yukihira Saucepan",
+    "price": 42.00,
+    "category": "Cookware",
+    "description": "Hammered Japanese aluminum core saucepan with bilateral pour spouts and wood handle.",
+    "imageUrl": "./images/product13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Dan Dan Sesame Sauce Base",
+    "price": 10.50,
+    "category": "Condiments",
+    "description": "Nutty roasted white sesame paste, fermented black beans, and Sichuan pepper oil.",
+    "imageUrl": "./images/product14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Umami Works Heavyweight Apron",
+    "price": 32.00,
+    "category": "Merchandise",
+    "description": "Stain-resistant raw canvas kitchen apron fitted with brass grommets and slotted tongs loop.",
+    "imageUrl": "./images/product15.jpg"
+  }
+]
